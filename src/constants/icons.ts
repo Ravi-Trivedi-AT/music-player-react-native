@@ -1,0 +1,15 @@
+export const icons = {
+  Home: 'home',
+  Language: 'language',
+  Search: 'search1',
+  DoubleLines: 'grip-lines',
+  PreviousIcon: 'previous',
+  PauseIcon: 'pause',
+  Next: 'next',
+  PlayIcon: 'play',
+  Close: 'close',
+  Moon: 'moon',
+  Sun: 'sun',
+  User: 'user',
+  Heart: 'hearto',
+};
